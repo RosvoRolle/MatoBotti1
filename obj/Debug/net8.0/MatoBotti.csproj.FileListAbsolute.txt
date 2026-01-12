@@ -1,0 +1,14 @@
+D:\OhjelmoinitHarjoituksia\MatoBotti\MatoBotti\obj\Debug\net8.0\MatoBotti.GeneratedMSBuildEditorConfig.editorconfig
+D:\OhjelmoinitHarjoituksia\MatoBotti\MatoBotti\obj\Debug\net8.0\MatoBotti.AssemblyInfoInputs.cache
+D:\OhjelmoinitHarjoituksia\MatoBotti\MatoBotti\obj\Debug\net8.0\MatoBotti.AssemblyInfo.cs
+D:\OhjelmoinitHarjoituksia\MatoBotti\MatoBotti\obj\Debug\net8.0\MatoBotti.csproj.CoreCompileInputs.cache
+D:\OhjelmoinitHarjoituksia\MatoBotti\MatoBotti\bin\Debug\net8.0\MatoBotti.exe
+D:\OhjelmoinitHarjoituksia\MatoBotti\MatoBotti\bin\Debug\net8.0\MatoBotti.deps.json
+D:\OhjelmoinitHarjoituksia\MatoBotti\MatoBotti\bin\Debug\net8.0\MatoBotti.runtimeconfig.json
+D:\OhjelmoinitHarjoituksia\MatoBotti\MatoBotti\bin\Debug\net8.0\MatoBotti.dll
+D:\OhjelmoinitHarjoituksia\MatoBotti\MatoBotti\bin\Debug\net8.0\MatoBotti.pdb
+D:\OhjelmoinitHarjoituksia\MatoBotti\MatoBotti\obj\Debug\net8.0\MatoBotti.dll
+D:\OhjelmoinitHarjoituksia\MatoBotti\MatoBotti\obj\Debug\net8.0\refint\MatoBotti.dll
+D:\OhjelmoinitHarjoituksia\MatoBotti\MatoBotti\obj\Debug\net8.0\MatoBotti.pdb
+D:\OhjelmoinitHarjoituksia\MatoBotti\MatoBotti\obj\Debug\net8.0\MatoBotti.genruntimeconfig.cache
+D:\OhjelmoinitHarjoituksia\MatoBotti\MatoBotti\obj\Debug\net8.0\ref\MatoBotti.dll
