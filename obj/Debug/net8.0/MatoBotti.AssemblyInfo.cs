@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MatoBotti")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a8c34ef9d0b5370fce7af6f61b7246df48bcb9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7a6de5921017f0d6fcf6e34d5073e149961843b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MatoBotti")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MatoBotti")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

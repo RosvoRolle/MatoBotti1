@@ -12,3 +12,4 @@ D:\OhjelmoinitHarjoituksia\MatoBotti\MatoBotti\obj\Debug\net8.0\refint\MatoBotti
 D:\OhjelmoinitHarjoituksia\MatoBotti\MatoBotti\obj\Debug\net8.0\MatoBotti.pdb
 D:\OhjelmoinitHarjoituksia\MatoBotti\MatoBotti\obj\Debug\net8.0\MatoBotti.genruntimeconfig.cache
 D:\OhjelmoinitHarjoituksia\MatoBotti\MatoBotti\obj\Debug\net8.0\ref\MatoBotti.dll
+D:\OhjelmoinitHarjoituksia\MatoBotti\MatoBotti\obj\Debug\net8.0\MatoBotti.sourcelink.json
